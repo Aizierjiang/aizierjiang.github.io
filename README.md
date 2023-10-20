@@ -21,7 +21,7 @@ I'm studying how to write codes efficiently. Currently I'm researching on Autono
 
 Feel free to take a look at my __GitHub__ overview. This gives a good understanding of the __languages__ used along with the total commits.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaSankeerth&layout=compact&theme=radical&langs_count=10)](https://github.com/Aizierjiang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aizierjiang&layout=compact&theme=radical&langs_count=10)](https://github.com/Aizierjiang/github-readme-stats)
 
 ![Aizierjiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aizierjiang&show_icons=true&theme=radical)
 
